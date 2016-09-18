@@ -1,0 +1,4 @@
+150912142332, 88888,  "Terminal City - Linda Fairstein", 10.95, 1, 0.0, 10.95, 2015/09/12 14:23:32 PM EDT
+150912142332, 33333,  "Gray Mountain - John Grisham", 14.95, 1, 0.0, 14.95, 2015/09/12 14:23:32 PM EDT
+150912142332, 22222,  "W Is For Wasted - Sue Grafton", 9.95, 1, 0.0, 9.95, 2015/09/12 14:23:32 PM EDT
+150912142332, 55555,  "Everyday Italian - Giada de Laurentiis", 18.99, 1, 0.0, 18.99, 2015/09/12 14:23:32 PM EDT
